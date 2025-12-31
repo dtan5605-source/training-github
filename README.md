@@ -20,3 +20,4 @@ Dưới đây là danh sách thành viên nhóm:
 
 | 3   | Nguyễn Văn B   | 25520001 |
 
+## Ghi chú: Hoàn thành bài tập GitFlow
